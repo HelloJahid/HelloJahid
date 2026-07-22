@@ -142,7 +142,7 @@ open-source work that demonstrates it in practice.
 | **Machine Learning DevOps Engineer** | Production ML pipelines, automated retraining, drift monitoring, CI/CD, API deployment (FastAPI, MLflow, GitHub Actions) | [CICDAgent](https://github.com/HelloJahid/CICDAgent) |
 | **Data Scientist** | CRISP-DM, ML pipelines with NLP, recommendation systems, software engineering for data science | [PromptProof](https://github.com/HelloJahid/PromptProof) |
 
-🔗 [Verified credentials on LinkedIn →](https://www.linkedin.com/in/hellojahid/details/certifications/)
+🔗 [Verifiy credentials →](https://www.linkedin.com/in/hellojahid/details/certifications/)
 
 ---
 
